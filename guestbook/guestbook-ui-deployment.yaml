@@ -5,6 +5,7 @@ metadata:
   labels:
     yk: test
     yk2: test2
+    yk3: test3
 spec:
   replicas: 1
   revisionHistoryLimit: 3
