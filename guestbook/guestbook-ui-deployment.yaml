@@ -11,6 +11,7 @@ metadata:
     yk6: tset6
     yk7: test7
     yk8: test8
+    yk9: test9
 spec:
   replicas: 1
   revisionHistoryLimit: 3
