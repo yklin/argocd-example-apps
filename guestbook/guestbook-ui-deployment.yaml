@@ -4,6 +4,7 @@ metadata:
   name: guestbook-ui
   labels:
     yk: test
+    yk2: test2
 spec:
   replicas: 1
   revisionHistoryLimit: 3
